@@ -17,7 +17,7 @@ sudo python3 setup.py install
 ./vrep
 ```
 
-2. You must open scene in vrep.
+2. You must open scene in vrep.  
   *'file' > 'open scene...'*  
   (There are scenes in 'neural_network_need4stek/n4s_package/scene')  
 
