@@ -18,8 +18,8 @@ sudo python3 setup.py install
 ```
 
 2. You must open scene in vrep.
-  'file' > 'open scene...'
-  (There are scenes in 'neural_network_need4stek/n4s_package/scene')
+  *'file' > 'open scene...'*  
+  (There are scenes in 'neural_network_need4stek/n4s_package/scene')  
 
 3. You must launch the core.
 ```
